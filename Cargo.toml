@@ -20,7 +20,7 @@ ws = { version = "0.8", features = ["nativetls"] }
 native-tls = { version = "0.2", features = ["vendored"] }
 dirs = "1"
 futures = "0.1"
-tokio = "= 0.1.11"
+tokio = "= 1.8.4"
 rand = "0.5"
 sha2 = "0.7"
 digest = "0.7"
